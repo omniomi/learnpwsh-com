@@ -1,0 +1,1 @@
+Ref: https://www.learnpwsh.com/handling-plain-text-passwords/
