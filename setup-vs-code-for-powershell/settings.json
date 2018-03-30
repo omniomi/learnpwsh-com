@@ -1,0 +1,26 @@
+{
+    // Basic Settings
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "editor.renderControlCharacters": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 13,
+
+    // Emmet
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.extensionsPath": "C:\\scripts\\emmet",
+
+    // PowerShell
+    "files.defaultLanguage": "powershell",
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.scriptAnalysis.settingsPath": "ScriptAnalyzerSettings.psd1",
+    "powershell.integratedConsole.focusConsoleOnExecute": false,
+    "powershell.enableProfileLoading": true,
+    "powershell.startAutomatically": true,
+    "powershell.codeFormatting.ignoreOneLineBlock": true,
+    "powershell.codeFormatting.openBraceOnSameLine": true,
+    "files.associations": {
+        "*.ps1xml": "xml"
+    }
+}
